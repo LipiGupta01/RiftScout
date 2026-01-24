@@ -1,3 +1,4 @@
+# RiftScout 
 # League of Legends Scouting Report Generator
 *Submission for Sky’s the Limit — Cloud9 x JetBrains Hackathon (Category 2: Automated Scouting Report Generator)*
 
